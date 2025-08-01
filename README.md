@@ -19,6 +19,12 @@ A simple and interactive to-do list built with React. This app lets users add ta
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the app](https://your-live-link.com)
+
+---
+
 ## 🛠️ Tech Stack
 
 - React (with Hooks)
